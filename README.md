@@ -6,11 +6,6 @@ Python version 3.9
 
 Project for the Python Programming module of the Data Analyst program (DA24STO) at Hyper Island Stockholm.
 
-### Authors: ###
-**Anna Högman** - https://github.com/annahogman  
-**Guilherme Bracco** - https://github.com/guibracco  
-**Yifan Yang** - https://github.com/yifan611
-
 ### Description: ###
  **Twittermometer©** aims to gauge the general sentiment expressed on Twitter, during the last four FIFA World Cups events (South Africa in 2010, Brazil in 2014, Russia in 2018 and Qatar in 2022), by visualising the most used English words in tweets marked with the hashtag #worldcup. Only the last four championships can be searched because Twitter was not yet comercially available before that.
 
