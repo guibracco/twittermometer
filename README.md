@@ -6,7 +6,10 @@ Python version 3.9
 
 Project for the Python Programming module of the Data Analyst program (DA24STO) at Hyper Island Stockholm.
 
-### Description: ###
+### Disclaimer ###
+As of 2023-06-30, snscrape has stopped working because Twitter – aka X, whatever – disabled its public website and required people to log in, hence rendering many student and researcher data projects useless.
+
+### Description ###
  **Twittermometer©** aims to gauge the general sentiment expressed on Twitter, during the last four FIFA World Cups events (South Africa in 2010, Brazil in 2014, Russia in 2018 and Qatar in 2022), by visualising the most used English words in tweets marked with the hashtag #worldcup. Only the last four championships can be searched because Twitter was not yet comercially available before that.
 
 Unfortunately, tweepy, the popular Twitter module, cannot be used, as of today even enterprise API access only provides data from the previous 30 days. Therefore, we are using the snscrape module, which doesn't have a limit of number of days or tweets.
